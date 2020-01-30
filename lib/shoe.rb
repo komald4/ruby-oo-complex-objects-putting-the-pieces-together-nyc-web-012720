@@ -8,5 +8,4 @@ class Shoe
     @brand = brand
   end
 
-
 end
